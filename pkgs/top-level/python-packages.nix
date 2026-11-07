@@ -8872,6 +8872,8 @@ self: super: with self; {
 
   jinja2-time = callPackage ../development/python-modules/jinja2-time { };
 
+  jinxed = callPackage ../development/python-modules/jinxed { };
+
   jira = callPackage ../development/python-modules/jira { };
 
   jishaku = callPackage ../development/python-modules/jishaku { };
